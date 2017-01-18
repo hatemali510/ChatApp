@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "807900833586",
+    "firebase_url": "https://chatapp-5e327.firebaseio.com",
+    "project_id": "chatapp-5e327",
+    "storage_bucket": "chatapp-5e327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807900833586:android:18337816cc1f8aff",
+        "android_client_info": {
+          "package_name": "com.example.hatem.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807900833586-g8fpb7n0hrg7v5lkvpf8vdr20qu8b9ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoLjY3OfvPMgKz5yJUN039hqGXNctAjpE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="addroom">add chat room</string>
+    <string name="ok_button"></string>
+
+</resources>
